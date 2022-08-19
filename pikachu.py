@@ -1,0 +1,2 @@
+print('Pika!')
+print('Chu!')
